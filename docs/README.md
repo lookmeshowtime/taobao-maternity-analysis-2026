@@ -8,6 +8,8 @@
 
 ### 分析报告
 - **[analysis_report.md](analysis_report.md)** - 完整数据分析报告
+- **[analysis_report.pdf](analysis_report.pdf)** - PDF格式报告（可预览）
+- **[analysis_presentation.pptx](analysis_presentation.pptx)** - PPT演示文稿（12页）
 - **[visualization_report.html](visualization_report.html)** - 交互式HTML可视化报告
 
 ### 项目笔记
