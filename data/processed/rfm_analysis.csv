@@ -1,0 +1,1001 @@
+user_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,segment
+user_00001,222,19,69,1,5,5,155,At Risk
+user_00002,111,12,25,2,1,1,211,Others
+user_00003,95,12,53,2,1,3,213,Cannot Lose Them
+user_00004,186,9,33,1,1,1,111,Others
+user_00005,498,7,20,1,1,1,111,Others
+user_00006,64,10,36,3,1,2,312,Others
+user_00007,122,19,61,2,5,4,254,At Risk
+user_00008,1,18,62,5,4,4,544,Champions
+user_00009,67,10,32,3,1,1,311,Others
+user_00010,182,17,49,1,4,3,143,At Risk
+user_00011,54,11,38,3,1,2,312,Others
+user_00012,37,27,68,4,5,5,455,Champions
+user_00013,23,20,76,4,5,5,455,Champions
+user_00014,7,16,59,5,3,4,534,Loyal Customers
+user_00015,80,9,35,3,1,1,311,Others
+user_00016,74,14,48,3,2,3,323,Others
+user_00017,101,17,64,2,4,4,244,At Risk
+user_00018,240,10,45,1,1,2,112,Others
+user_00019,12,23,90,5,5,5,555,Champions
+user_00020,299,15,38,1,3,2,132,At Risk
+user_00021,6,16,54,5,3,4,534,Loyal Customers
+user_00022,59,19,89,3,5,5,355,Loyal Customers
+user_00023,49,13,35,3,2,1,321,Others
+user_00024,235,10,31,1,1,1,111,Others
+user_00025,24,19,47,4,5,3,453,Loyal Customers
+user_00026,70,18,67,3,4,5,345,Loyal Customers
+user_00027,148,11,52,2,1,3,213,Cannot Lose Them
+user_00028,47,10,31,4,1,1,411,New Customers
+user_00029,5,18,55,5,4,4,544,Champions
+user_00030,377,10,23,1,1,1,111,Others
+user_00031,336,16,53,1,3,3,133,At Risk
+user_00032,234,10,45,1,1,2,112,Others
+user_00033,94,8,33,2,1,1,211,Others
+user_00034,127,5,13,2,1,1,211,Others
+user_00035,41,12,23,4,1,1,411,New Customers
+user_00036,139,6,6,2,1,1,211,Others
+user_00037,20,8,46,5,1,3,513,New Customers
+user_00038,13,11,39,5,1,2,512,New Customers
+user_00039,40,22,79,4,5,5,455,Champions
+user_00040,235,13,32,1,2,1,121,Others
+user_00041,27,13,37,4,2,2,422,New Customers
+user_00042,273,15,42,1,3,2,132,At Risk
+user_00043,7,15,51,5,3,3,533,Loyal Customers
+user_00044,5,17,71,5,4,5,545,Champions
+user_00045,20,12,52,5,1,3,513,New Customers
+user_00046,81,12,39,3,1,2,312,Others
+user_00047,65,18,58,3,4,4,344,Loyal Customers
+user_00048,105,9,28,2,1,1,211,Others
+user_00049,63,17,61,3,4,4,344,Loyal Customers
+user_00050,48,10,29,4,1,1,411,New Customers
+user_00051,87,12,41,2,1,2,212,Others
+user_00052,75,15,46,3,3,3,333,Loyal Customers
+user_00053,53,13,41,3,2,2,322,Others
+user_00054,13,12,32,5,1,1,511,New Customers
+user_00055,495,10,29,1,1,1,111,Others
+user_00056,113,18,56,2,4,4,244,At Risk
+user_00057,40,17,50,4,4,3,443,Loyal Customers
+user_00058,30,15,35,4,3,1,431,Others
+user_00059,74,23,99,3,5,5,355,Loyal Customers
+user_00060,272,13,39,1,2,2,122,Others
+user_00061,122,11,25,2,1,1,211,Others
+user_00062,51,12,40,3,1,2,312,Others
+user_00063,92,11,46,2,1,3,213,Cannot Lose Them
+user_00064,65,11,56,3,1,4,314,Others
+user_00065,30,19,49,4,5,3,453,Loyal Customers
+user_00066,16,16,51,5,3,3,533,Loyal Customers
+user_00067,175,12,43,1,1,2,112,Others
+user_00068,73,16,56,3,3,4,334,Loyal Customers
+user_00069,34,22,88,4,5,5,455,Champions
+user_00070,68,14,36,3,2,2,322,Others
+user_00071,69,13,37,3,2,2,322,Others
+user_00072,13,16,54,5,3,4,534,Loyal Customers
+user_00073,63,25,81,3,5,5,355,Loyal Customers
+user_00074,35,16,45,4,3,2,432,Others
+user_00075,31,18,39,4,4,2,442,Others
+user_00076,17,18,75,5,4,5,545,Champions
+user_00077,34,15,49,4,3,3,433,Loyal Customers
+user_00078,87,9,21,2,1,1,211,Others
+user_00079,29,20,52,4,5,3,453,Loyal Customers
+user_00080,10,11,37,5,1,2,512,New Customers
+user_00081,112,10,29,2,1,1,211,Others
+user_00082,11,20,99,5,5,5,555,Champions
+user_00083,105,14,72,2,2,5,225,Cannot Lose Them
+user_00084,26,21,80,4,5,5,455,Champions
+user_00085,74,13,41,3,2,2,322,Others
+user_00086,21,18,73,5,4,5,545,Champions
+user_00087,11,17,70,5,4,5,545,Champions
+user_00088,34,19,62,4,5,4,454,Champions
+user_00089,146,13,65,2,2,5,225,Cannot Lose Them
+user_00090,95,19,63,2,5,4,254,At Risk
+user_00091,20,10,25,5,1,1,511,New Customers
+user_00092,176,17,47,1,4,3,143,At Risk
+user_00093,164,22,78,1,5,5,155,At Risk
+user_00094,611,7,36,1,1,2,112,Others
+user_00095,186,14,48,1,2,3,123,Cannot Lose Them
+user_00096,256,13,47,1,2,3,123,Cannot Lose Them
+user_00097,20,12,39,5,1,2,512,New Customers
+user_00098,102,9,49,2,1,3,213,Cannot Lose Them
+user_00099,35,17,61,4,4,4,444,Champions
+user_00100,38,10,37,4,1,2,412,New Customers
+user_00101,33,22,77,4,5,5,455,Champions
+user_00102,6,13,54,5,2,4,524,New Customers
+user_00103,34,13,43,4,2,2,422,New Customers
+user_00104,158,20,89,1,5,5,155,At Risk
+user_00105,24,19,41,4,5,2,452,Others
+user_00106,93,18,67,2,4,5,245,At Risk
+user_00107,244,11,37,1,1,2,112,Others
+user_00108,91,13,29,2,2,1,221,Others
+user_00109,115,20,65,2,5,5,255,At Risk
+user_00110,55,10,29,3,1,1,311,Others
+user_00111,40,19,66,4,5,5,455,Champions
+user_00112,38,22,59,4,5,4,454,Champions
+user_00113,6,18,60,5,4,4,544,Champions
+user_00114,133,18,57,2,4,4,244,At Risk
+user_00115,134,16,29,2,3,1,231,At Risk
+user_00116,103,13,62,2,2,4,224,Cannot Lose Them
+user_00117,51,15,42,3,3,2,332,Others
+user_00118,25,18,54,4,4,4,444,Champions
+user_00119,119,11,41,2,1,2,212,Others
+user_00120,3,12,33,5,1,1,511,New Customers
+user_00121,12,11,50,5,1,3,513,New Customers
+user_00122,206,17,52,1,4,3,143,At Risk
+user_00123,240,15,39,1,3,2,132,At Risk
+user_00124,34,13,42,4,2,2,422,New Customers
+user_00125,42,15,52,4,3,3,433,Loyal Customers
+user_00126,51,13,44,3,2,2,322,Others
+user_00127,182,15,47,1,3,3,133,At Risk
+user_00128,7,22,81,5,5,5,555,Champions
+user_00129,3,19,82,5,5,5,555,Champions
+user_00130,127,22,85,2,5,5,255,At Risk
+user_00131,173,12,55,1,1,4,114,Cannot Lose Them
+user_00132,9,17,58,5,4,4,544,Champions
+user_00133,11,15,48,5,3,3,533,Loyal Customers
+user_00134,78,13,50,3,2,3,323,Others
+user_00135,96,11,37,2,1,2,212,Others
+user_00136,88,10,22,2,1,1,211,Others
+user_00137,8,15,42,5,3,2,532,Others
+user_00138,83,15,46,3,3,3,333,Loyal Customers
+user_00139,2,17,68,5,4,5,545,Champions
+user_00140,123,12,54,2,1,4,214,Cannot Lose Them
+user_00141,21,21,52,5,5,3,553,Loyal Customers
+user_00142,18,9,25,5,1,1,511,New Customers
+user_00143,65,14,36,3,2,2,322,Others
+user_00144,85,18,76,2,4,5,245,At Risk
+user_00145,137,11,32,2,1,1,211,Others
+user_00146,54,18,53,3,4,3,343,Loyal Customers
+user_00147,56,20,81,3,5,5,355,Loyal Customers
+user_00148,316,12,47,1,1,3,113,Cannot Lose Them
+user_00149,5,19,40,5,5,2,552,Others
+user_00150,57,8,31,3,1,1,311,Others
+user_00151,64,8,19,3,1,1,311,Others
+user_00152,30,11,45,4,1,2,412,New Customers
+user_00153,339,11,26,1,1,1,111,Others
+user_00154,9,22,78,5,5,5,555,Champions
+user_00155,43,16,61,4,3,4,434,Loyal Customers
+user_00156,32,18,72,4,4,5,445,Champions
+user_00157,112,11,52,2,1,3,213,Cannot Lose Them
+user_00158,26,14,44,4,2,2,422,New Customers
+user_00159,11,12,35,5,2,1,521,New Customers
+user_00160,127,11,49,2,1,3,213,Cannot Lose Them
+user_00161,27,19,65,4,5,5,455,Champions
+user_00162,6,17,33,5,4,1,541,Others
+user_00163,151,15,46,1,3,3,133,At Risk
+user_00164,5,20,81,5,5,5,555,Champions
+user_00165,77,15,43,3,3,2,332,Others
+user_00166,144,22,69,2,5,5,255,At Risk
+user_00167,96,13,37,2,2,2,222,Others
+user_00168,640,11,24,1,1,1,111,Others
+user_00169,50,12,42,3,2,2,322,Others
+user_00170,313,15,60,1,3,4,134,At Risk
+user_00171,247,20,71,1,5,5,155,At Risk
+user_00172,84,14,50,3,2,3,323,Others
+user_00173,269,14,58,1,2,4,124,Cannot Lose Them
+user_00174,551,6,10,1,1,1,111,Others
+user_00175,95,16,74,2,3,5,235,At Risk
+user_00176,184,12,56,1,2,4,124,Cannot Lose Them
+user_00177,178,14,37,1,2,2,122,Others
+user_00178,58,15,69,3,3,5,335,Loyal Customers
+user_00179,271,15,49,1,3,3,133,At Risk
+user_00180,117,14,51,2,2,3,223,Cannot Lose Them
+user_00181,61,17,46,3,4,3,343,Loyal Customers
+user_00182,76,15,42,3,3,2,332,Others
+user_00183,105,17,49,2,4,3,243,At Risk
+user_00184,168,15,67,1,3,5,135,At Risk
+user_00185,104,9,29,2,1,1,211,Others
+user_00186,23,13,60,4,2,4,424,New Customers
+user_00187,57,20,63,3,5,4,354,Loyal Customers
+user_00188,43,22,86,4,5,5,455,Champions
+user_00189,79,15,51,3,3,3,333,Loyal Customers
+user_00190,17,12,48,5,2,3,523,New Customers
+user_00191,121,17,72,2,4,5,245,At Risk
+user_00192,108,20,46,2,5,3,253,At Risk
+user_00193,143,14,56,2,2,4,224,Cannot Lose Them
+user_00194,32,13,60,4,2,4,424,New Customers
+user_00195,2,16,55,5,3,4,534,Loyal Customers
+user_00196,5,15,53,5,3,3,533,Loyal Customers
+user_00197,149,13,49,2,2,3,223,Cannot Lose Them
+user_00198,402,13,39,1,2,2,122,Others
+user_00199,57,13,50,3,2,3,323,Others
+user_00200,241,14,58,1,2,4,124,Cannot Lose Them
+user_00201,167,14,46,1,2,3,123,Cannot Lose Them
+user_00202,80,13,39,3,2,2,322,Others
+user_00203,173,12,52,1,2,3,123,Cannot Lose Them
+user_00204,21,17,40,5,4,2,542,Others
+user_00205,10,15,34,5,3,1,531,Others
+user_00206,103,14,26,2,2,1,221,Others
+user_00207,5,19,53,5,5,3,553,Loyal Customers
+user_00208,186,20,70,1,5,5,155,At Risk
+user_00209,36,14,41,4,2,2,422,New Customers
+user_00210,30,20,54,4,5,4,454,Champions
+user_00211,102,22,74,2,5,5,255,At Risk
+user_00212,4,12,41,5,2,2,522,New Customers
+user_00213,34,15,46,4,3,3,433,Loyal Customers
+user_00214,119,19,65,2,5,5,255,At Risk
+user_00215,33,16,64,4,3,4,434,Loyal Customers
+user_00216,108,17,59,2,4,4,244,At Risk
+user_00217,77,14,29,3,3,1,331,Others
+user_00218,45,18,69,4,4,5,445,Champions
+user_00219,130,9,48,2,1,3,213,Cannot Lose Them
+user_00220,104,14,40,2,3,2,232,At Risk
+user_00221,46,23,76,4,5,5,455,Champions
+user_00222,134,13,34,2,2,1,221,Others
+user_00223,23,13,50,4,2,3,423,New Customers
+user_00224,40,12,38,4,2,2,422,New Customers
+user_00225,18,13,30,5,2,1,521,New Customers
+user_00226,26,22,71,4,5,5,455,Champions
+user_00227,82,17,45,3,4,2,342,Others
+user_00228,23,14,48,4,3,3,433,Loyal Customers
+user_00229,36,19,59,4,5,4,454,Champions
+user_00230,115,13,41,2,2,2,222,Others
+user_00231,6,12,47,5,2,3,523,New Customers
+user_00232,109,18,58,2,4,4,244,At Risk
+user_00233,23,16,45,4,3,2,432,Others
+user_00234,123,15,36,2,3,2,232,At Risk
+user_00235,61,20,57,3,5,4,354,Loyal Customers
+user_00236,67,16,62,3,3,4,334,Loyal Customers
+user_00237,22,23,95,4,5,5,455,Champions
+user_00238,320,12,33,1,2,1,121,Others
+user_00239,6,16,49,5,3,3,533,Loyal Customers
+user_00240,249,9,37,1,1,2,112,Others
+user_00241,316,9,31,1,1,1,111,Others
+user_00242,200,14,44,1,3,2,132,At Risk
+user_00243,93,13,33,2,2,1,221,Others
+user_00244,343,8,50,1,1,3,113,Cannot Lose Them
+user_00245,29,13,64,4,2,4,424,New Customers
+user_00246,121,17,50,2,4,3,243,At Risk
+user_00247,143,16,53,2,3,3,233,At Risk
+user_00248,118,13,52,2,2,3,223,Cannot Lose Them
+user_00249,35,12,27,4,2,1,421,New Customers
+user_00250,59,11,34,3,1,1,311,Others
+user_00251,34,15,51,4,3,3,433,Loyal Customers
+user_00252,234,9,35,1,1,1,111,Others
+user_00253,3,22,69,5,5,5,555,Champions
+user_00254,36,12,58,4,2,4,424,New Customers
+user_00255,54,19,77,3,5,5,355,Loyal Customers
+user_00256,75,13,37,3,2,2,322,Others
+user_00257,124,16,54,2,3,4,234,At Risk
+user_00258,236,13,32,1,2,1,121,Others
+user_00259,139,15,55,2,3,4,234,At Risk
+user_00260,188,21,71,1,5,5,155,At Risk
+user_00261,48,12,62,4,2,4,424,New Customers
+user_00262,20,14,34,5,3,1,531,Others
+user_00263,10,7,12,5,1,1,511,New Customers
+user_00264,402,12,44,1,2,2,122,Others
+user_00265,2,16,57,5,3,4,534,Loyal Customers
+user_00266,13,18,54,5,4,4,544,Champions
+user_00267,148,13,53,2,2,3,223,Cannot Lose Them
+user_00268,69,21,79,3,5,5,355,Loyal Customers
+user_00269,97,13,50,2,2,3,223,Cannot Lose Them
+user_00270,111,18,44,2,4,2,242,At Risk
+user_00271,9,24,97,5,5,5,555,Champions
+user_00272,15,9,24,5,1,1,511,New Customers
+user_00273,7,24,62,5,5,4,554,Champions
+user_00274,12,13,44,5,2,2,522,New Customers
+user_00275,307,14,36,1,3,2,132,At Risk
+user_00276,52,18,65,3,4,5,345,Loyal Customers
+user_00277,27,16,79,4,3,5,435,Loyal Customers
+user_00278,30,21,57,4,5,4,454,Champions
+user_00279,11,15,60,5,3,4,534,Loyal Customers
+user_00280,9,12,32,5,2,1,521,New Customers
+user_00281,225,14,54,1,3,4,134,At Risk
+user_00282,178,13,46,1,2,3,123,Cannot Lose Them
+user_00283,73,21,69,3,5,5,355,Loyal Customers
+user_00284,4,13,50,5,2,3,523,New Customers
+user_00285,235,11,43,1,1,2,112,Others
+user_00286,151,10,36,1,1,2,112,Others
+user_00287,38,14,37,4,3,2,432,Others
+user_00288,32,18,74,4,4,5,445,Champions
+user_00289,223,17,42,1,4,2,142,At Risk
+user_00290,103,10,32,2,1,1,211,Others
+user_00291,164,11,42,1,1,2,112,Others
+user_00292,65,12,50,3,2,3,323,Others
+user_00293,7,21,63,5,5,4,554,Champions
+user_00294,27,15,41,4,3,2,432,Others
+user_00295,34,12,37,4,2,2,422,New Customers
+user_00296,60,14,46,3,3,3,333,Loyal Customers
+user_00297,19,11,54,5,1,4,514,New Customers
+user_00298,68,12,43,3,2,2,322,Others
+user_00299,107,13,50,2,2,3,223,Cannot Lose Them
+user_00300,46,12,38,4,2,2,422,New Customers
+user_00301,173,10,33,1,1,1,111,Others
+user_00302,91,19,50,2,5,3,253,At Risk
+user_00303,39,17,47,4,4,3,443,Loyal Customers
+user_00304,21,14,45,5,3,2,532,Others
+user_00305,226,10,28,1,1,1,111,Others
+user_00306,10,14,48,5,3,3,533,Loyal Customers
+user_00307,1,17,62,5,4,4,544,Champions
+user_00308,137,14,62,2,3,4,234,At Risk
+user_00309,128,14,54,2,3,4,234,At Risk
+user_00310,67,13,41,3,2,2,322,Others
+user_00311,40,22,69,4,5,5,455,Champions
+user_00312,15,6,20,5,1,1,511,New Customers
+user_00313,155,18,57,1,4,4,144,At Risk
+user_00314,14,19,52,5,5,3,553,Loyal Customers
+user_00315,146,11,23,2,1,1,211,Others
+user_00316,334,9,21,1,1,1,111,Others
+user_00317,16,19,56,5,5,4,554,Champions
+user_00318,3,21,42,5,5,2,552,Others
+user_00319,7,10,42,5,1,2,512,New Customers
+user_00320,11,16,50,5,3,3,533,Loyal Customers
+user_00321,60,12,25,3,2,1,321,Others
+user_00322,232,9,16,1,1,1,111,Others
+user_00323,206,14,46,1,3,3,133,At Risk
+user_00324,22,18,58,4,4,4,444,Champions
+user_00325,140,19,64,2,5,4,254,At Risk
+user_00326,4,17,35,5,4,1,541,Others
+user_00327,40,19,56,4,5,4,454,Champions
+user_00328,161,12,49,1,2,3,123,Cannot Lose Them
+user_00329,56,14,37,3,3,2,332,Others
+user_00330,36,16,43,4,3,2,432,Others
+user_00331,31,18,67,4,4,5,445,Champions
+user_00332,96,14,35,2,3,1,231,At Risk
+user_00333,193,17,57,1,4,4,144,At Risk
+user_00334,58,17,44,3,4,2,342,Others
+user_00335,64,14,47,3,3,3,333,Loyal Customers
+user_00336,52,23,86,3,5,5,355,Loyal Customers
+user_00337,440,15,45,1,3,2,132,At Risk
+user_00338,54,16,93,3,3,5,335,Loyal Customers
+user_00339,14,16,39,5,3,2,532,Others
+user_00340,6,14,47,5,3,3,533,Loyal Customers
+user_00341,28,14,61,4,3,4,434,Loyal Customers
+user_00342,213,12,32,1,2,1,121,Others
+user_00343,25,17,72,4,4,5,445,Champions
+user_00344,9,18,49,5,4,3,543,Loyal Customers
+user_00345,73,19,65,3,5,5,355,Loyal Customers
+user_00346,571,4,10,1,1,1,111,Others
+user_00347,75,7,15,3,1,1,311,Others
+user_00348,10,13,31,5,2,1,521,New Customers
+user_00349,6,16,49,5,3,3,533,Loyal Customers
+user_00350,15,9,26,5,1,1,511,New Customers
+user_00351,21,10,20,5,1,1,511,New Customers
+user_00352,25,12,41,4,2,2,422,New Customers
+user_00353,13,15,49,5,3,3,533,Loyal Customers
+user_00354,46,15,64,4,3,4,434,Loyal Customers
+user_00355,63,16,54,3,3,4,334,Loyal Customers
+user_00356,91,18,81,2,4,5,245,At Risk
+user_00357,114,14,57,2,3,4,234,At Risk
+user_00358,400,10,33,1,1,1,111,Others
+user_00359,179,15,59,1,3,4,134,At Risk
+user_00360,9,10,32,5,1,1,511,New Customers
+user_00361,28,11,39,4,1,2,412,New Customers
+user_00362,79,12,35,3,2,1,321,Others
+user_00363,54,15,36,3,3,2,332,Others
+user_00364,45,22,69,4,5,5,455,Champions
+user_00365,107,16,72,2,3,5,235,At Risk
+user_00366,32,17,54,4,4,4,444,Champions
+user_00367,146,19,75,2,5,5,255,At Risk
+user_00368,62,17,58,3,4,4,344,Loyal Customers
+user_00369,42,14,49,4,3,3,433,Loyal Customers
+user_00370,59,7,21,3,1,1,311,Others
+user_00371,187,17,75,1,4,5,145,At Risk
+user_00372,153,12,34,1,2,1,121,Others
+user_00373,107,14,53,2,3,3,233,At Risk
+user_00374,69,10,30,3,1,1,311,Others
+user_00375,158,17,62,1,4,4,144,At Risk
+user_00376,30,20,68,4,5,5,455,Champions
+user_00377,48,11,35,4,1,1,411,New Customers
+user_00378,75,16,56,3,3,4,334,Loyal Customers
+user_00379,92,15,33,2,3,1,231,At Risk
+user_00380,211,15,46,1,3,3,133,At Risk
+user_00381,69,25,89,3,5,5,355,Loyal Customers
+user_00382,7,22,58,5,5,4,554,Champions
+user_00383,39,17,58,4,4,4,444,Champions
+user_00384,23,18,59,4,4,4,444,Champions
+user_00385,106,10,22,2,1,1,211,Others
+user_00386,37,11,60,4,1,4,414,New Customers
+user_00387,6,27,109,5,5,5,555,Champions
+user_00388,42,13,38,4,2,2,422,New Customers
+user_00389,111,10,19,2,1,1,211,Others
+user_00390,46,18,60,4,4,4,444,Champions
+user_00391,39,14,36,4,3,2,432,Others
+user_00392,35,11,27,4,1,1,411,New Customers
+user_00393,32,17,48,4,4,3,443,Loyal Customers
+user_00394,259,13,49,1,2,3,123,Cannot Lose Them
+user_00395,47,15,32,4,3,1,431,Others
+user_00396,144,17,55,2,4,4,244,At Risk
+user_00397,48,13,48,4,2,3,423,New Customers
+user_00398,57,12,40,3,2,2,322,Others
+user_00399,37,15,57,4,3,4,434,Loyal Customers
+user_00400,6,13,55,5,2,4,524,New Customers
+user_00401,29,19,59,4,5,4,454,Champions
+user_00402,87,12,45,2,2,2,222,Others
+user_00403,31,14,38,4,3,2,432,Others
+user_00404,68,12,42,3,2,2,322,Others
+user_00405,19,15,49,5,3,3,533,Loyal Customers
+user_00406,115,11,51,2,1,3,213,Cannot Lose Them
+user_00407,161,13,48,1,2,3,123,Cannot Lose Them
+user_00408,253,10,36,1,1,2,112,Others
+user_00409,55,11,36,3,1,2,312,Others
+user_00410,104,12,57,2,2,4,224,Cannot Lose Them
+user_00411,234,9,28,1,1,1,111,Others
+user_00412,10,18,61,5,4,4,544,Champions
+user_00413,143,13,32,2,2,1,221,Others
+user_00414,115,17,53,2,4,3,243,At Risk
+user_00415,144,16,51,2,3,3,233,At Risk
+user_00416,63,20,76,3,5,5,355,Loyal Customers
+user_00417,196,16,44,1,3,2,132,At Risk
+user_00418,60,8,29,3,1,1,311,Others
+user_00419,12,15,42,5,3,2,532,Others
+user_00420,37,22,71,4,5,5,455,Champions
+user_00421,50,17,60,3,4,4,344,Loyal Customers
+user_00422,67,16,39,3,3,2,332,Others
+user_00423,149,12,35,2,2,1,221,Others
+user_00424,165,13,44,1,2,2,122,Others
+user_00425,26,17,49,4,4,3,443,Loyal Customers
+user_00426,12,16,58,5,3,4,534,Loyal Customers
+user_00427,158,18,45,1,4,2,142,At Risk
+user_00428,17,17,62,5,4,4,544,Champions
+user_00429,56,18,40,3,4,2,342,Others
+user_00430,14,5,13,5,1,1,511,New Customers
+user_00431,93,14,32,2,3,1,231,At Risk
+user_00432,80,14,67,3,3,5,335,Loyal Customers
+user_00433,20,17,55,5,4,4,544,Champions
+user_00434,87,16,47,2,3,3,233,At Risk
+user_00435,203,15,43,1,3,2,132,At Risk
+user_00436,11,15,48,5,3,3,533,Loyal Customers
+user_00437,52,12,51,3,2,3,323,Others
+user_00438,4,18,52,5,4,3,543,Loyal Customers
+user_00439,43,22,74,4,5,5,455,Champions
+user_00440,225,18,53,1,4,3,143,At Risk
+user_00441,30,19,71,4,5,5,455,Champions
+user_00442,23,17,68,4,4,5,445,Champions
+user_00443,134,19,60,2,5,4,254,At Risk
+user_00444,56,14,46,3,3,3,333,Loyal Customers
+user_00445,6,19,59,5,5,4,554,Champions
+user_00446,100,18,59,2,4,4,244,At Risk
+user_00447,86,15,48,2,3,3,233,At Risk
+user_00448,106,11,29,2,1,1,211,Others
+user_00449,218,17,90,1,4,5,145,At Risk
+user_00450,118,19,62,2,5,4,254,At Risk
+user_00451,37,9,26,4,1,1,411,New Customers
+user_00452,73,16,40,3,3,2,332,Others
+user_00453,63,14,33,3,3,1,331,Others
+user_00454,25,15,48,4,3,3,433,Loyal Customers
+user_00455,21,20,66,5,5,5,555,Champions
+user_00456,73,14,33,3,3,1,331,Others
+user_00457,20,15,56,5,3,4,534,Loyal Customers
+user_00458,108,8,29,2,1,1,211,Others
+user_00459,10,16,88,5,3,5,535,Loyal Customers
+user_00460,129,11,38,2,1,2,212,Others
+user_00461,163,12,50,1,2,3,123,Cannot Lose Them
+user_00462,50,12,44,3,2,2,322,Others
+user_00463,4,19,66,5,5,5,555,Champions
+user_00464,42,22,77,4,5,5,455,Champions
+user_00465,169,11,32,1,1,1,111,Others
+user_00466,244,16,61,1,3,4,134,At Risk
+user_00467,41,19,75,4,5,5,455,Champions
+user_00468,116,13,28,2,2,1,221,Others
+user_00469,283,8,30,1,1,1,111,Others
+user_00470,63,9,32,3,1,1,311,Others
+user_00471,79,23,100,3,5,5,355,Loyal Customers
+user_00472,14,14,53,5,3,3,533,Loyal Customers
+user_00473,61,12,45,3,2,2,322,Others
+user_00474,179,17,63,1,4,4,144,At Risk
+user_00475,335,9,27,1,1,1,111,Others
+user_00476,25,13,44,4,2,2,422,New Customers
+user_00477,82,18,67,3,4,5,345,Loyal Customers
+user_00478,14,11,33,5,1,1,511,New Customers
+user_00479,194,14,43,1,3,2,132,At Risk
+user_00480,53,19,47,3,5,3,353,Loyal Customers
+user_00481,25,16,84,4,3,5,435,Loyal Customers
+user_00482,277,18,64,1,4,4,144,At Risk
+user_00483,31,17,60,4,4,4,444,Champions
+user_00484,136,9,31,2,1,1,211,Others
+user_00485,71,19,78,3,5,5,355,Loyal Customers
+user_00486,94,17,80,2,4,5,245,At Risk
+user_00487,362,12,53,1,2,3,123,Cannot Lose Them
+user_00488,321,12,36,1,2,2,122,Others
+user_00489,115,13,68,2,2,5,225,Cannot Lose Them
+user_00490,3,19,75,5,5,5,555,Champions
+user_00491,514,13,66,1,2,5,125,Cannot Lose Them
+user_00492,67,20,84,3,5,5,355,Loyal Customers
+user_00493,55,13,36,3,2,2,322,Others
+user_00494,84,20,77,3,5,5,355,Loyal Customers
+user_00495,75,17,51,3,4,3,343,Loyal Customers
+user_00496,40,14,28,4,3,1,431,Others
+user_00497,103,15,46,2,3,3,233,At Risk
+user_00498,17,14,80,5,3,5,535,Loyal Customers
+user_00499,13,17,42,5,4,2,542,Others
+user_00500,98,14,38,2,3,2,232,At Risk
+user_00501,176,10,29,1,1,1,111,Others
+user_00502,2,18,55,5,4,4,544,Champions
+user_00503,43,21,44,4,5,2,452,Others
+user_00504,13,15,58,5,3,4,534,Loyal Customers
+user_00505,6,12,33,5,2,1,521,New Customers
+user_00506,50,13,30,3,2,1,321,Others
+user_00507,44,9,36,4,1,2,412,New Customers
+user_00508,52,16,52,3,4,3,343,Loyal Customers
+user_00509,119,16,36,2,4,2,242,At Risk
+user_00510,63,9,41,3,1,2,312,Others
+user_00511,26,15,49,4,3,3,433,Loyal Customers
+user_00512,285,10,30,1,1,1,111,Others
+user_00513,113,10,24,2,1,1,211,Others
+user_00514,21,16,51,5,4,3,543,Loyal Customers
+user_00515,21,14,36,5,3,2,532,Others
+user_00516,132,17,45,2,4,2,242,At Risk
+user_00517,14,18,67,5,4,5,545,Champions
+user_00518,21,10,28,5,1,1,511,New Customers
+user_00519,158,12,25,1,2,1,121,Others
+user_00520,92,22,60,2,5,4,254,At Risk
+user_00521,62,19,66,3,5,5,355,Loyal Customers
+user_00522,97,16,84,2,4,5,245,At Risk
+user_00523,176,16,53,1,4,3,143,At Risk
+user_00524,15,13,62,5,2,4,524,New Customers
+user_00525,75,15,53,3,3,3,333,Loyal Customers
+user_00526,156,11,24,1,1,1,111,Others
+user_00527,58,17,39,3,4,2,342,Others
+user_00528,4,21,78,5,5,5,555,Champions
+user_00529,78,17,41,3,4,2,342,Others
+user_00530,39,20,61,4,5,4,454,Champions
+user_00531,167,10,25,1,1,1,111,Others
+user_00532,114,13,47,2,2,3,223,Cannot Lose Them
+user_00533,171,19,70,1,5,5,155,At Risk
+user_00534,152,12,41,1,2,2,122,Others
+user_00535,134,10,51,2,1,3,213,Cannot Lose Them
+user_00536,44,15,36,4,3,2,432,Others
+user_00537,52,20,65,3,5,5,355,Loyal Customers
+user_00538,163,20,55,1,5,4,154,At Risk
+user_00539,320,9,30,1,1,1,111,Others
+user_00540,10,22,52,5,5,3,553,Loyal Customers
+user_00541,41,21,63,4,5,4,454,Champions
+user_00542,30,17,49,4,4,3,443,Loyal Customers
+user_00543,103,13,33,2,2,1,221,Others
+user_00544,30,14,45,4,3,2,432,Others
+user_00545,347,8,34,1,1,1,111,Others
+user_00546,141,18,72,2,4,5,245,At Risk
+user_00547,1,20,56,5,5,4,554,Champions
+user_00548,398,9,29,1,1,1,111,Others
+user_00549,122,16,61,2,4,4,244,At Risk
+user_00550,270,21,84,1,5,5,155,At Risk
+user_00551,134,18,73,2,4,5,245,At Risk
+user_00552,291,11,42,1,1,2,112,Others
+user_00553,68,17,65,3,4,5,345,Loyal Customers
+user_00554,12,19,68,5,5,5,555,Champions
+user_00555,128,13,39,2,2,2,222,Others
+user_00556,43,14,41,4,3,2,432,Others
+user_00557,55,17,62,3,4,4,344,Loyal Customers
+user_00558,147,22,83,2,5,5,255,At Risk
+user_00559,21,18,80,5,4,5,545,Champions
+user_00560,69,24,62,3,5,4,354,Loyal Customers
+user_00561,1,22,60,5,5,4,554,Champions
+user_00562,60,13,39,3,2,2,322,Others
+user_00563,139,14,48,2,3,3,233,At Risk
+user_00564,125,12,42,2,2,2,222,Others
+user_00565,49,12,35,3,2,1,321,Others
+user_00566,125,17,59,2,4,4,244,At Risk
+user_00567,96,16,76,2,4,5,245,At Risk
+user_00568,76,16,60,3,4,4,344,Loyal Customers
+user_00569,80,15,57,3,3,4,334,Loyal Customers
+user_00570,72,16,31,3,4,1,341,Others
+user_00571,14,20,45,5,5,2,552,Others
+user_00572,108,9,44,2,1,2,212,Others
+user_00573,14,25,104,5,5,5,555,Champions
+user_00574,68,20,76,3,5,5,355,Loyal Customers
+user_00575,50,18,69,3,4,5,345,Loyal Customers
+user_00576,49,11,33,3,1,1,311,Others
+user_00577,134,11,34,2,1,1,211,Others
+user_00578,217,13,55,1,2,4,124,Cannot Lose Them
+user_00579,21,13,37,5,2,2,522,New Customers
+user_00580,94,16,49,2,4,3,243,At Risk
+user_00581,62,13,54,3,2,4,324,Others
+user_00582,4,16,38,5,4,2,542,Others
+user_00583,15,15,46,5,3,3,533,Loyal Customers
+user_00584,202,21,43,1,5,2,152,At Risk
+user_00585,221,11,40,1,1,2,112,Others
+user_00586,114,16,65,2,4,5,245,At Risk
+user_00587,233,10,23,1,1,1,111,Others
+user_00588,65,18,57,3,4,4,344,Loyal Customers
+user_00589,41,22,78,4,5,5,455,Champions
+user_00590,94,12,37,2,2,2,222,Others
+user_00591,185,13,34,1,2,1,121,Others
+user_00592,43,16,45,4,4,2,442,Others
+user_00593,180,10,34,1,1,1,111,Others
+user_00594,39,16,37,4,4,2,442,Others
+user_00595,25,11,32,4,1,1,411,New Customers
+user_00596,70,17,73,3,4,5,345,Loyal Customers
+user_00597,37,13,47,4,2,3,423,New Customers
+user_00598,48,14,44,4,3,2,432,Others
+user_00599,28,17,61,4,4,4,444,Champions
+user_00600,43,10,22,4,1,1,411,New Customers
+user_00601,8,22,50,5,5,3,553,Loyal Customers
+user_00602,15,21,60,5,5,4,554,Champions
+user_00603,372,8,19,1,1,1,111,Others
+user_00604,133,18,64,2,4,4,244,At Risk
+user_00605,42,18,65,4,4,5,445,Champions
+user_00606,52,22,55,3,5,4,354,Loyal Customers
+user_00607,39,14,33,4,3,1,431,Others
+user_00608,85,13,45,2,2,2,222,Others
+user_00609,87,11,52,2,1,3,213,Cannot Lose Them
+user_00610,11,19,54,5,5,4,554,Champions
+user_00611,11,14,51,5,3,3,533,Loyal Customers
+user_00612,64,19,47,3,5,3,353,Loyal Customers
+user_00613,63,10,22,3,1,1,311,Others
+user_00614,282,12,42,1,2,2,122,Others
+user_00615,24,16,48,4,4,3,443,Loyal Customers
+user_00616,156,11,49,1,1,3,113,Cannot Lose Them
+user_00617,51,18,62,3,4,4,344,Loyal Customers
+user_00618,2,19,37,5,5,2,552,Others
+user_00619,16,21,48,5,5,3,553,Loyal Customers
+user_00620,60,21,69,3,5,5,355,Loyal Customers
+user_00621,68,16,51,3,4,3,343,Loyal Customers
+user_00622,82,15,40,3,3,2,332,Others
+user_00623,12,16,44,5,4,2,542,Others
+user_00624,195,9,40,1,1,2,112,Others
+user_00625,37,12,45,4,2,2,422,New Customers
+user_00626,20,15,39,5,3,2,532,Others
+user_00627,64,8,40,3,1,2,312,Others
+user_00628,194,21,81,1,5,5,155,At Risk
+user_00629,9,13,65,5,2,5,525,New Customers
+user_00630,14,15,48,5,3,3,533,Loyal Customers
+user_00631,28,14,39,4,3,2,432,Others
+user_00632,21,13,51,5,2,3,523,New Customers
+user_00633,116,12,49,2,2,3,223,Cannot Lose Them
+user_00634,3,13,45,5,2,2,522,New Customers
+user_00635,8,15,38,5,3,2,532,Others
+user_00636,245,7,27,1,1,1,111,Others
+user_00637,57,21,87,3,5,5,355,Loyal Customers
+user_00638,56,15,58,3,3,4,334,Loyal Customers
+user_00639,27,17,57,4,4,4,444,Champions
+user_00640,81,16,41,3,4,2,342,Others
+user_00641,47,11,61,4,1,4,414,New Customers
+user_00642,11,10,23,5,1,1,511,New Customers
+user_00643,45,14,38,4,3,2,432,Others
+user_00644,2,12,32,5,2,1,521,New Customers
+user_00645,87,10,40,2,1,2,212,Others
+user_00646,36,18,72,4,4,5,445,Champions
+user_00647,39,16,48,4,4,3,443,Loyal Customers
+user_00648,407,13,46,1,2,3,123,Cannot Lose Them
+user_00649,79,17,56,3,4,4,344,Loyal Customers
+user_00650,62,16,45,3,4,2,342,Others
+user_00651,7,17,52,5,4,3,543,Loyal Customers
+user_00652,210,13,51,1,2,3,123,Cannot Lose Them
+user_00653,74,20,63,3,5,4,354,Loyal Customers
+user_00654,58,12,52,3,2,3,323,Others
+user_00655,251,16,50,1,4,3,143,At Risk
+user_00656,120,13,65,2,2,5,225,Cannot Lose Them
+user_00657,16,18,38,5,4,2,542,Others
+user_00658,39,23,108,4,5,5,455,Champions
+user_00659,145,14,43,2,3,2,232,At Risk
+user_00660,143,15,40,2,3,2,232,At Risk
+user_00661,67,19,82,3,5,5,355,Loyal Customers
+user_00662,78,20,52,3,5,3,353,Loyal Customers
+user_00663,4,19,73,5,5,5,555,Champions
+user_00664,3,18,66,5,4,5,545,Champions
+user_00665,122,13,22,2,2,1,221,Others
+user_00666,40,21,59,4,5,4,454,Champions
+user_00667,287,11,41,1,1,2,112,Others
+user_00668,127,17,79,2,4,5,245,At Risk
+user_00669,341,11,40,1,1,2,112,Others
+user_00670,33,19,56,4,5,4,454,Champions
+user_00671,145,11,33,2,1,1,211,Others
+user_00672,30,15,55,4,3,4,434,Loyal Customers
+user_00673,220,16,46,1,4,3,143,At Risk
+user_00674,140,12,32,2,2,1,221,Others
+user_00675,21,19,57,5,5,4,554,Champions
+user_00676,28,21,111,4,5,5,455,Champions
+user_00677,78,11,57,3,1,4,314,Others
+user_00678,54,15,42,3,3,2,332,Others
+user_00679,16,14,48,5,3,3,533,Loyal Customers
+user_00680,39,16,85,4,4,5,445,Champions
+user_00681,420,17,79,1,4,5,145,At Risk
+user_00682,16,12,44,5,2,2,522,New Customers
+user_00683,129,12,37,2,2,2,222,Others
+user_00684,136,6,22,2,1,1,211,Others
+user_00685,15,20,49,5,5,3,553,Loyal Customers
+user_00686,321,13,51,1,2,3,123,Cannot Lose Them
+user_00687,91,22,87,2,5,5,255,At Risk
+user_00688,23,20,58,4,5,4,454,Champions
+user_00689,69,15,64,3,3,4,334,Loyal Customers
+user_00690,320,15,58,1,3,4,134,At Risk
+user_00691,4,14,25,5,3,1,531,Others
+user_00692,45,11,41,4,1,2,412,New Customers
+user_00693,42,22,88,4,5,5,455,Champions
+user_00694,107,17,45,2,4,2,242,At Risk
+user_00695,73,13,40,3,2,2,322,Others
+user_00696,187,14,75,1,3,5,135,At Risk
+user_00697,21,14,59,5,3,4,534,Loyal Customers
+user_00698,227,20,55,1,5,4,154,At Risk
+user_00699,49,17,59,3,4,4,344,Loyal Customers
+user_00700,80,23,68,3,5,5,355,Loyal Customers
+user_00701,268,16,63,1,4,4,144,At Risk
+user_00702,355,18,57,1,4,4,144,At Risk
+user_00703,39,16,51,4,4,3,443,Loyal Customers
+user_00704,107,17,60,2,4,4,244,At Risk
+user_00705,1,11,33,5,1,1,511,New Customers
+user_00706,7,12,47,5,2,3,523,New Customers
+user_00707,149,9,37,2,1,2,212,Others
+user_00708,32,18,52,4,4,3,443,Loyal Customers
+user_00709,11,16,55,5,4,4,544,Champions
+user_00710,161,16,55,1,4,4,144,At Risk
+user_00711,198,14,39,1,3,2,132,At Risk
+user_00712,265,14,45,1,3,2,132,At Risk
+user_00713,262,14,44,1,3,2,132,At Risk
+user_00714,98,13,25,2,2,1,221,Others
+user_00715,8,15,27,5,3,1,531,Others
+user_00716,3,18,78,5,4,5,545,Champions
+user_00717,56,13,51,3,2,3,323,Others
+user_00718,96,18,51,2,4,3,243,At Risk
+user_00719,239,10,40,1,1,2,112,Others
+user_00720,41,20,56,4,5,4,454,Champions
+user_00721,102,13,39,2,2,2,222,Others
+user_00722,11,13,38,5,2,2,522,New Customers
+user_00723,118,12,44,2,2,2,222,Others
+user_00724,87,8,21,2,1,1,211,Others
+user_00725,51,12,37,3,2,2,322,Others
+user_00726,42,25,101,4,5,5,455,Champions
+user_00727,69,16,44,3,4,2,342,Others
+user_00728,34,22,81,4,5,5,455,Champions
+user_00729,8,9,37,5,1,2,512,New Customers
+user_00730,83,16,58,3,4,4,344,Loyal Customers
+user_00731,19,16,35,5,4,1,541,Others
+user_00732,31,19,70,4,5,5,455,Champions
+user_00733,48,12,44,4,2,2,422,New Customers
+user_00734,216,12,34,1,2,1,121,Others
+user_00735,14,18,65,5,4,5,545,Champions
+user_00736,78,13,59,3,2,4,324,Others
+user_00737,123,14,33,2,3,1,231,At Risk
+user_00738,145,16,48,2,4,3,243,At Risk
+user_00739,99,15,43,2,3,2,232,At Risk
+user_00740,176,16,61,1,4,4,144,At Risk
+user_00741,29,10,18,4,1,1,411,New Customers
+user_00742,118,9,21,2,1,1,211,Others
+user_00743,207,18,49,1,4,3,143,At Risk
+user_00744,17,12,44,5,2,2,522,New Customers
+user_00745,147,8,21,2,1,1,211,Others
+user_00746,6,15,46,5,3,3,533,Loyal Customers
+user_00747,12,13,55,5,2,4,524,New Customers
+user_00748,31,11,39,4,1,2,412,New Customers
+user_00749,24,15,44,4,3,2,432,Others
+user_00750,48,10,25,4,1,1,411,New Customers
+user_00751,4,13,45,5,2,2,522,New Customers
+user_00752,416,12,61,1,2,4,124,Cannot Lose Them
+user_00753,84,18,54,3,4,4,344,Loyal Customers
+user_00754,26,20,63,4,5,4,454,Champions
+user_00755,63,11,35,3,1,1,311,Others
+user_00756,7,15,54,5,3,4,534,Loyal Customers
+user_00757,55,18,44,3,4,2,342,Others
+user_00758,138,21,68,2,5,5,255,At Risk
+user_00759,108,14,57,2,3,4,234,At Risk
+user_00760,204,8,16,1,1,1,111,Others
+user_00761,157,19,87,1,5,5,155,At Risk
+user_00762,11,13,64,5,2,4,524,New Customers
+user_00763,29,21,63,4,5,4,454,Champions
+user_00764,147,9,22,2,1,1,211,Others
+user_00765,277,9,40,1,1,2,112,Others
+user_00766,10,14,43,5,3,2,532,Others
+user_00767,47,9,29,4,1,1,411,New Customers
+user_00768,70,17,64,3,4,4,344,Loyal Customers
+user_00769,265,11,50,1,1,3,113,Cannot Lose Them
+user_00770,91,19,83,2,5,5,255,At Risk
+user_00771,24,12,44,4,2,2,422,New Customers
+user_00772,82,17,43,3,4,2,342,Others
+user_00773,405,7,19,1,1,1,111,Others
+user_00774,55,14,40,3,3,2,332,Others
+user_00775,59,12,38,3,2,2,322,Others
+user_00776,511,17,69,1,4,5,145,At Risk
+user_00777,224,8,33,1,1,1,111,Others
+user_00778,13,18,52,5,4,3,543,Loyal Customers
+user_00779,68,13,46,3,2,3,323,Others
+user_00780,188,12,41,1,2,2,122,Others
+user_00781,46,17,70,4,4,5,445,Champions
+user_00782,111,13,28,2,2,1,221,Others
+user_00783,8,27,85,5,5,5,555,Champions
+user_00784,152,14,57,1,3,4,134,At Risk
+user_00785,159,22,61,1,5,4,154,At Risk
+user_00786,66,9,31,3,1,1,311,Others
+user_00787,78,17,60,3,4,4,344,Loyal Customers
+user_00788,120,11,37,2,1,2,212,Others
+user_00789,7,12,60,5,2,4,524,New Customers
+user_00790,61,15,43,3,3,2,332,Others
+user_00791,57,19,73,3,5,5,355,Loyal Customers
+user_00792,221,17,53,1,4,3,143,At Risk
+user_00793,267,21,71,1,5,5,155,At Risk
+user_00794,211,20,66,1,5,5,155,At Risk
+user_00795,249,13,67,1,2,5,125,Cannot Lose Them
+user_00796,37,11,31,4,1,1,411,New Customers
+user_00797,77,16,44,3,4,2,342,Others
+user_00798,65,18,82,3,4,5,345,Loyal Customers
+user_00799,15,18,58,5,4,4,544,Champions
+user_00800,33,19,50,4,5,3,453,Loyal Customers
+user_00801,118,14,77,2,3,5,235,At Risk
+user_00802,250,15,60,1,3,4,134,At Risk
+user_00803,251,17,80,1,4,5,145,At Risk
+user_00804,50,19,67,3,5,5,355,Loyal Customers
+user_00805,278,17,53,1,4,3,143,At Risk
+user_00806,121,11,35,2,1,1,211,Others
+user_00807,57,11,47,3,1,3,313,Others
+user_00808,302,10,34,1,1,1,111,Others
+user_00809,187,12,30,1,2,1,121,Others
+user_00810,80,15,46,3,3,3,333,Loyal Customers
+user_00811,168,12,45,1,2,2,122,Others
+user_00812,41,12,33,4,2,1,421,New Customers
+user_00813,16,18,63,5,4,4,544,Champions
+user_00814,172,14,55,1,3,4,134,At Risk
+user_00815,708,11,32,1,1,1,111,Others
+user_00816,94,14,54,2,3,4,234,At Risk
+user_00817,85,16,42,2,4,2,242,At Risk
+user_00818,70,7,21,3,1,1,311,Others
+user_00819,34,15,38,4,3,2,432,Others
+user_00820,136,22,61,2,5,4,254,At Risk
+user_00821,269,11,43,1,1,2,112,Others
+user_00822,17,24,94,5,5,5,555,Champions
+user_00823,138,7,35,2,1,1,211,Others
+user_00824,14,14,49,5,3,3,533,Loyal Customers
+user_00825,31,27,56,4,5,4,454,Champions
+user_00826,19,16,40,5,4,2,542,Others
+user_00827,189,11,39,1,1,2,112,Others
+user_00828,96,19,45,2,5,2,252,At Risk
+user_00829,87,5,15,2,1,1,211,Others
+user_00830,139,13,40,2,2,2,222,Others
+user_00831,4,17,61,5,4,4,544,Champions
+user_00832,130,18,61,2,4,4,244,At Risk
+user_00833,23,21,42,4,5,2,452,Others
+user_00834,1,15,52,5,3,3,533,Loyal Customers
+user_00835,152,17,73,1,4,5,145,At Risk
+user_00836,317,20,61,1,5,4,154,At Risk
+user_00837,10,19,64,5,5,4,554,Champions
+user_00838,14,17,44,5,4,2,542,Others
+user_00839,72,15,41,3,3,2,332,Others
+user_00840,46,19,73,4,5,5,455,Champions
+user_00841,93,12,57,2,2,4,224,Cannot Lose Them
+user_00842,21,13,39,5,2,2,522,New Customers
+user_00843,98,14,55,2,3,4,234,At Risk
+user_00844,70,13,45,3,2,2,322,Others
+user_00845,23,20,81,4,5,5,455,Champions
+user_00846,36,16,78,4,4,5,445,Champions
+user_00847,62,10,30,3,1,1,311,Others
+user_00848,30,17,61,4,4,4,444,Champions
+user_00849,94,26,99,2,5,5,255,At Risk
+user_00850,5,23,79,5,5,5,555,Champions
+user_00851,61,9,28,3,1,1,311,Others
+user_00852,1,17,54,5,4,4,544,Champions
+user_00853,149,16,81,2,4,5,245,At Risk
+user_00854,22,12,32,4,2,1,421,New Customers
+user_00855,158,20,70,1,5,5,155,At Risk
+user_00856,89,16,58,2,4,4,244,At Risk
+user_00857,59,11,35,3,1,1,311,Others
+user_00858,6,18,44,5,4,2,542,Others
+user_00859,48,19,52,4,5,3,453,Loyal Customers
+user_00860,275,12,30,1,2,1,121,Others
+user_00861,406,16,53,1,4,3,143,At Risk
+user_00862,63,13,43,3,2,2,322,Others
+user_00863,217,11,41,1,1,2,112,Others
+user_00864,38,13,47,4,2,3,423,New Customers
+user_00865,29,15,39,4,3,2,432,Others
+user_00866,35,18,56,4,4,4,444,Champions
+user_00867,85,14,26,2,3,1,231,At Risk
+user_00868,57,13,39,3,2,2,322,Others
+user_00869,74,19,73,3,5,5,355,Loyal Customers
+user_00870,27,16,52,4,4,3,443,Loyal Customers
+user_00871,7,20,71,5,5,5,555,Champions
+user_00872,110,12,29,2,2,1,221,Others
+user_00873,1,11,24,5,1,1,511,New Customers
+user_00874,153,16,71,1,4,5,145,At Risk
+user_00875,115,11,23,2,1,1,211,Others
+user_00876,112,11,43,2,1,2,212,Others
+user_00877,47,13,38,4,2,2,422,New Customers
+user_00878,253,13,26,1,2,1,121,Others
+user_00879,361,7,33,1,1,1,111,Others
+user_00880,67,14,59,3,3,4,334,Loyal Customers
+user_00881,54,20,65,3,5,5,355,Loyal Customers
+user_00882,33,12,37,4,2,2,422,New Customers
+user_00883,42,15,51,4,3,3,433,Loyal Customers
+user_00884,57,19,63,3,5,4,354,Loyal Customers
+user_00885,43,12,45,4,2,2,422,New Customers
+user_00886,316,18,60,1,4,4,144,At Risk
+user_00887,112,20,83,2,5,5,255,At Risk
+user_00888,33,19,48,4,5,3,453,Loyal Customers
+user_00889,21,18,63,5,4,4,544,Champions
+user_00890,6,19,56,5,5,4,554,Champions
+user_00891,29,25,73,4,5,5,455,Champions
+user_00892,41,19,66,4,5,5,455,Champions
+user_00893,92,19,78,2,5,5,255,At Risk
+user_00894,48,13,35,4,2,1,421,New Customers
+user_00895,103,12,45,2,2,2,222,Others
+user_00896,217,7,18,1,1,1,111,Others
+user_00897,2,15,66,5,3,5,535,Loyal Customers
+user_00898,48,17,53,4,4,3,443,Loyal Customers
+user_00899,158,22,88,1,5,5,155,At Risk
+user_00900,232,16,39,1,4,2,142,At Risk
+user_00901,13,12,30,5,2,1,521,New Customers
+user_00902,28,19,52,4,5,3,453,Loyal Customers
+user_00903,155,12,46,1,2,3,123,Cannot Lose Them
+user_00904,87,11,38,2,1,2,212,Others
+user_00905,114,17,87,2,4,5,245,At Risk
+user_00906,16,14,35,5,3,1,531,Others
+user_00907,16,12,27,5,2,1,521,New Customers
+user_00908,251,8,12,1,1,1,111,Others
+user_00909,8,17,85,5,4,5,545,Champions
+user_00910,5,13,38,5,2,2,522,New Customers
+user_00911,29,13,35,4,2,1,421,New Customers
+user_00912,8,17,73,5,4,5,545,Champions
+user_00913,10,21,61,5,5,4,554,Champions
+user_00914,42,19,65,4,5,5,455,Champions
+user_00915,143,22,87,2,5,5,255,At Risk
+user_00916,25,18,69,4,4,5,445,Champions
+user_00917,38,23,79,4,5,5,455,Champions
+user_00918,70,13,29,3,2,1,321,Others
+user_00919,123,19,55,2,5,4,254,At Risk
+user_00920,78,18,68,3,4,5,345,Loyal Customers
+user_00921,17,23,107,5,5,5,555,Champions
+user_00922,269,14,37,1,3,2,132,At Risk
+user_00923,34,20,48,4,5,3,453,Loyal Customers
+user_00924,107,14,32,2,3,1,231,At Risk
+user_00925,41,20,69,4,5,5,455,Champions
+user_00926,59,14,50,3,3,3,333,Loyal Customers
+user_00927,9,15,52,5,3,3,533,Loyal Customers
+user_00928,95,13,50,2,2,3,223,Cannot Lose Them
+user_00929,150,23,66,1,5,5,155,At Risk
+user_00930,5,13,28,5,2,1,521,New Customers
+user_00931,403,9,60,1,1,4,114,Cannot Lose Them
+user_00932,51,9,32,3,1,1,311,Others
+user_00933,3,9,30,5,1,1,511,New Customers
+user_00934,66,13,52,3,2,3,323,Others
+user_00935,12,16,35,5,4,1,541,Others
+user_00936,68,21,67,3,5,5,355,Loyal Customers
+user_00937,28,20,84,4,5,5,455,Champions
+user_00938,21,18,67,5,4,5,545,Champions
+user_00939,76,15,64,3,3,4,334,Loyal Customers
+user_00940,40,23,69,4,5,5,455,Champions
+user_00941,57,8,26,3,1,1,311,Others
+user_00942,5,18,46,5,5,3,553,Loyal Customers
+user_00943,156,14,46,1,3,3,133,At Risk
+user_00944,151,14,32,1,3,1,131,At Risk
+user_00945,75,18,58,3,5,4,354,Loyal Customers
+user_00946,59,16,70,3,4,5,345,Loyal Customers
+user_00947,21,17,52,5,4,3,543,Loyal Customers
+user_00948,19,14,34,5,3,1,531,Others
+user_00949,180,14,51,1,3,3,133,At Risk
+user_00950,23,20,59,4,5,4,454,Champions
+user_00951,139,13,33,2,2,1,221,Others
+user_00952,74,15,55,3,3,4,334,Loyal Customers
+user_00953,123,9,36,2,1,2,212,Others
+user_00954,4,14,64,5,3,4,534,Loyal Customers
+user_00955,62,12,38,3,2,2,322,Others
+user_00956,50,20,78,3,5,5,355,Loyal Customers
+user_00957,117,11,19,2,1,1,211,Others
+user_00958,42,12,43,4,2,2,422,New Customers
+user_00959,11,14,75,5,3,5,535,Loyal Customers
+user_00960,68,14,44,3,3,2,332,Others
+user_00961,70,8,13,3,1,1,311,Others
+user_00962,45,18,62,4,5,4,454,Champions
+user_00963,20,21,77,5,5,5,555,Champions
+user_00964,476,9,32,1,1,1,111,Others
+user_00965,133,13,47,2,2,3,223,Cannot Lose Them
+user_00966,3,12,50,5,2,3,523,New Customers
+user_00967,77,12,23,3,2,1,321,Others
+user_00968,102,13,56,2,2,4,224,Cannot Lose Them
+user_00969,47,12,30,4,2,1,421,New Customers
+user_00970,394,14,46,1,3,3,133,At Risk
+user_00971,9,15,73,5,3,5,535,Loyal Customers
+user_00972,4,13,63,5,2,4,524,New Customers
+user_00973,11,22,78,5,5,5,555,Champions
+user_00974,27,19,59,4,5,4,454,Champions
+user_00975,72,15,47,3,3,3,333,Loyal Customers
+user_00976,70,14,29,3,3,1,331,Others
+user_00977,41,15,49,4,3,3,433,Loyal Customers
+user_00978,133,14,34,2,3,1,231,At Risk
+user_00979,7,12,45,5,2,2,522,New Customers
+user_00980,39,16,37,4,4,2,442,Others
+user_00981,44,14,38,4,3,2,432,Others
+user_00982,144,15,71,2,3,5,235,At Risk
+user_00983,36,15,50,4,3,3,433,Loyal Customers
+user_00984,103,18,56,2,5,4,254,At Risk
+user_00985,87,16,60,2,4,4,244,At Risk
+user_00986,21,17,56,5,4,4,544,Champions
+user_00987,177,15,56,1,3,4,134,At Risk
+user_00988,116,21,94,2,5,5,255,At Risk
+user_00989,57,16,38,3,4,2,342,Others
+user_00990,91,16,64,2,4,4,244,At Risk
+user_00991,103,13,66,2,2,5,225,Cannot Lose Them
+user_00992,159,21,87,1,5,5,155,At Risk
+user_00993,171,17,37,1,4,2,142,At Risk
+user_00994,48,15,55,4,3,4,434,Loyal Customers
+user_00995,153,12,65,1,2,5,125,Cannot Lose Them
+user_00996,126,9,29,2,1,1,211,Others
+user_00997,167,12,33,1,2,1,121,Others
+user_00998,382,11,32,1,1,1,111,Others
+user_00999,172,17,34,1,4,1,141,At Risk
+user_01000,136,10,34,2,1,1,211,Others
